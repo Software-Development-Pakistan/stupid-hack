@@ -1,6 +1,22 @@
 .App {
   text-align: center;
 }
+.App, body, html{
+  background-color: #de5459;
+  color: white;
+  /*font-family: 'Gamja Flower', cursive;*/
+  font-family: 'PT Sans', sans-serif;
+}
+
+.gobutton{
+  display: block;
+  font-size: 25px;
+  color: black;
+  background-color: white;
+  width: 100px;
+  margin: 0px auto;
+  margin-top: 20px;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -25,4 +41,8 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.hiddenVideo{
+  visibility: hidden;
 }
