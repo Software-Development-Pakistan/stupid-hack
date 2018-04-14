@@ -5,3 +5,9 @@
   video, canvas {
     position: absolute;
   }
+  .App, body, html{
+    background-color: #de5459;
+    color: white;
+    font-family: 'Gamja Flower', cursive ;
+  }
+  
