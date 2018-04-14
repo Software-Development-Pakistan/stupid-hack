@@ -9,14 +9,14 @@ class Home extends Component {
       <div className="App">
         <h1>YOU ARE WHAT YOU EAT!</h1>
         <img src={heart} />
-        <p>THIS APP WILL LET YOU KOW IF YOU HAVE BEEN EATING HEALTHY BY USING STATE OF THE ART NEURAL NETWORKS.</p>
+        <h2>THIS APP WILL TELL YOU IF YOU HAVE BEEN EATING HEALTHY BY USING STATE OF THE ART NEURAL NETWORKS.</h2>
         <br />
         <br />
         <div className="box">
-          <p>HOW OFTEN DO YOU EAT HEALTHY? Rate (1-10) </p>
+          <h4>HOW OFTEN DO YOU EAT HEALTHY? Rate (1-10) </h4>
           <input type="text" />
           
-          <p>WHAT WAS THE LAST MEAL YOU HAD? </p>
+          <h4>WHAT WAS THE LAST MEAL YOU HAD? </h4>
           <input type="text" />
           
           <a className="gobutton" href="/final" >GO! </a>

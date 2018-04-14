@@ -1,28 +1,30 @@
+.demo-frame {
+  position: relative;
+}
+video,
+canvas {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 20px;
+}
+.App,
+body,
+html {
+  background-color: #de5459;
+  color: white;
+  font-family: "Gamja Flower", cursive;
+}
 
-  .demo-frame{
-    position: relative;
-  }
-  video, canvas {
-    position: absolute;
-    margin-left: auto;
-margin-right: auto;
-left: 0;
-right: 0;
-  }
-  .App, body, html{
-    background-color: #de5459;
-    color: white;
-    font-family: 'Gamja Flower', cursive ;
-  }
-  
-  .message{
-    position: static;
-    left: 0;
-    width: 200px;
-    background-color: white;
-    color: red;
-
-  }
-  body{
-    height: 100vh;
-  }
+.message {
+  position: static;
+  left: 0;
+  width: 200px;
+  background-color: white;
+  color: red;
+}
+body {
+  height: 100vh;
+}
