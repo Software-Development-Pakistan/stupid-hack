@@ -1,0 +1,7 @@
+
+  .demo-frame{
+    position: relative;
+  }
+  video, canvas {
+    position: absolute;
+  }
