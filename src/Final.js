@@ -12,18 +12,18 @@ const shits = [
     image: spaghetti
   },
   {
-    name: 'Nice Breakfast',
+    name: 'Healthy-Breakfast',
     message: 'You had a nice breakfast with egg banana. Continue eating healthy',
     image: mixedfruit
   },
   {
-    name: 'Grapes',
+    name: 'Sour-Grapes',
     message: 'You ate grapes? are you on a diet? dont bother, we are all gonna die one day.',
     image: grapes
   },
   {
-    name: 'Plain',
-    message: 'You ate something weird stuff, our algorithms have no idea what this is, anyways have a nice day! .',
+    name: 'Holy-Weird-Shit',
+    message: 'You ate some weird stuff, our algorithms have no idea what this is, anyways have a nice day! .',
     image: plain
   },
 ]
@@ -81,9 +81,12 @@ class Final extends Component {
               muted
             />
             <canvas id="canvas" width="700" height="700" />
-            <h1>You lying piece of shit, you ate {this.state.shit.name} last night</h1>
+            <h1>You lying piece of shit, you ate {this.state.shit.name} in your last meal</h1>
             <p>{this.state.shit.message}</p>
-            <p className="message">This project is done by founders of <a href="http://www.softdevpk.com">Software Development Pakistan</a> We are trying to bring modern technology to Pakistan by promoting open source.. and other things.</p>
+            <div className="message">
+            <p >This project is done by founders of <a href="http://www.softdevpk.com">Software Development Pakistan</a> We are trying to bring modern technology to Pakistan by promoting open source.. and other things.</p>
+            <p>Promote us by sharing this with your friends </p>
+            </div>
           </div>
         </div>
       </div>
