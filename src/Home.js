@@ -9,7 +9,7 @@ class Home extends Component {
       <div className="App">
         <h1>YOU ARE WHAT YOU EAT!</h1>
         <img src={heart} />
-        <h2>THIS APP WILL TELL YOU IF YOU HAVE BEEN EATING HEALTHY BY USING STATE OF THE ART NEURAL NETWORKS.</h2>
+        <h2>THIS APP WILL TELL YOU IF YOU HAVE BEEN EATING HEALTHY BY USING STATE OF THE ART NEURAL NETWORKS AND FACE RECOGNITION TECHNOLOGIES.</h2>
         <br />
         <br />
         <div className="box">
