@@ -67,6 +67,10 @@ class Final extends Component {
       <div className="App">
         <div className="demo-frame">
           <div className="demo-container">
+
+        <audio autoplay>
+                <source src={audio} preload='auto'/>
+          </audio>
             <video
               id="video"
               width="700"
@@ -79,11 +83,9 @@ class Final extends Component {
             <canvas id="canvas" width="700" height="700" />
             <h1>You lying piece of shit, you ate {this.state.shit.name} last night</h1>
             <p>{this.state.shit.message}</p>
+            <p className="message">This project is done by founders of <a href="http://www.softdevpk.com">Software Development Pakistan</a> We are trying to bring modern technology to Pakistan by promoting open source.. and other things.</p>
           </div>
         </div>
-        <audio autoplay>
-                <source src={audio} preload='auto'/>
-          </audio>
       </div>
     );
   }
