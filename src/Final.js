@@ -4,6 +4,7 @@ import spaghetti from "./shits/shit.png";
 import grapes from "./shits/grapes.png";
 import mixedfruit from "./shits/mixedfruit.png";
 import plain from "./shits/plain.png";
+import audio from "./shits/trimmed-bakra.mp3"
 const shits = [
   {
     name: 'Spaghetti',
@@ -80,6 +81,9 @@ class Final extends Component {
             <p>{this.state.shit.message}</p>
           </div>
         </div>
+        <audio autoplay>
+                <source src={audio} preload='auto'/>
+          </audio>
       </div>
     );
   }
