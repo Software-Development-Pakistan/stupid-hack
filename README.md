@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Technology Stack](#technology-stack)
 - [How to get Started](#get-started)
 - [Sending Feedbacks](#sending-feedbacks)
+- [Join the discussion](#Join-the-discussion)
+- [Major Contributors](#major-contributors)
+- [Sponsor](#Sponsor)
 
 
 ## Introduction
@@ -23,7 +26,7 @@ You might want to contribute to this project for any of the following reasons:
 
 ## Technology Stack
 This project was bootstrapped with [React's Create React App](https://github.com/facebookincubator/create-react-app).
-It uses [Tracking JS](https://trackingjs.com/), open source library for using computer vision on the internet.
+It uses [Tracking JS](https://trackingjs.com/), open source library for using computer vision on the web.
 
 ## Get Started:
 In order to get started with the project, you should have git, Node, and npm installed on your computer. 
@@ -45,5 +48,15 @@ We recommend using NVM for node and vscode as the text editor (unless vim, emacs
 
 We are always open to [your feedback](https://www.facebook.com/Software-Development-Pakistan-415204205574372/). send a message on our facebook page.
 
+## Join the discussion
 If you want to contribute and not really sure how to get started or want to join the discussion, join our slack by filling the form below: 
+https://docs.google.com/forms/d/e/1FAIpQLSfSU6Urq-3KIItCA8QfZJ_B4rluB7pw7eA-SUJuvZnSJl4lRg/viewform?usp=sf_link
+
+## Major Contributors
+- Azeem Akhter (Frontend Development)
+- Adnan Mirza (Designer)
+- Kamal Memon (SoundFX for goat's voice) - Believe me its him, we can prove it if it comes to that ;).
+
+## Sponsors 
+This vision of promoting open source and community driven development is sponsored by [Futurice](https://www.futurice.com)
 
