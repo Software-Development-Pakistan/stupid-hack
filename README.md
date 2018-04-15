@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Why Should I contribute?](#reasons-to-contribute)
 - [Technology Stack](#technology-stack)
 - [How to get Started](#get-started)
-- [Versions](#Versions)
+- [Milestones](#milestones)
 - [Sending Feedbacks](#sending-feedbacks)
 - [Join the discussion](#Join-the-discussion)
 - [Major Contributors](#major-contributors)
@@ -14,6 +14,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Introduction
 We did this project in Stupid hack junction. Software development Pakistan is founded by a group of Pakistani Software developers / Data Scientists and Designers who are not driven by money but by working on interesting projects with the fields they are passionate about. 
 This project is basically a prank. The idea of having it here is to collaborate and make it the best prank out there to reach the maximum number of people. We are open to criticism and ideas to make it better. if you have a suggestion/feedback please send a message to our [Facebook Page](https://www.facebook.com/Software-Development-Pakistan-415204205574372/). 
+
+The idea is initially validated, we were judged by more than 2 dozen judges. They first thought long and hard about their eating habits and laughed out loud on the final screen.
 
 If you are to make a suggestion, use your imagination and think big!. We have all the means and resources to make anything out of it. ;) 
 
@@ -45,7 +47,7 @@ We recommend using NVM for node and vscode as the text editor (unless vim, emacs
   `npm start`
 5. Collaborate by assigning a task to yourself from [issues list](https://github.com/Software-Development-Pakistan/you-are-what-you-eat/issues) and sending a [pull request](https://www.youtube.com/watch?v=FQsBmnZvBdc) (Watch the full tutorial if you want to learn using git).
 
-## Versions: 
+## Milestones: 
 Current Version: 0.1 (Prototype that works)
 Future Versions: 
 - 1.0: Make it ready to be shared on social media (Better UI, Better UX, Sharing options)
