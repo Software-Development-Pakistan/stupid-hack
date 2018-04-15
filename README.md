@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Why Should I contribute?](#reasons-to-contribute)
 - [Technology Stack](#technology-stack)
 - [How to get Started](#get-started)
+- [Versions](#Versions)
 - [Sending Feedbacks](#sending-feedbacks)
 - [Join the discussion](#Join-the-discussion)
 - [Major Contributors](#major-contributors)
@@ -43,6 +44,12 @@ We recommend using NVM for node and vscode as the text editor (unless vim, emacs
 4. Start the project
   `npm start`
 5. Collaborate by assigning a task to yourself from [issues list](https://github.com/Software-Development-Pakistan/you-are-what-you-eat/issues) and sending a [pull request](https://www.youtube.com/watch?v=FQsBmnZvBdc) (Watch the full tutorial if you want to learn using git).
+
+## Versions: 
+Current Version: 0.1 (Prototype that works)
+Future Versions: 
+- 1.0: Make it ready to be shared on social media (Better UI, Better UX, Sharing options)
+- 2.0: Make it appropriate for wider audience ( make shits cute like snap chat filters :D ? customizable shits? use something else instead of shit )
 
 ## Sending Feedback
 
